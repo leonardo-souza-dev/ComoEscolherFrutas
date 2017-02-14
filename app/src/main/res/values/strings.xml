@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Como Escolher Frutas</string>
+    <string name="action_settings">Configurações</string>
+    <string name="fruit">fruta</string>
+    <string name="melancia">Melancia</string>
+    <string name="abacaxi">Abacaxi</string>
+    <string name="banana">Banana</string>
+    <string name="manga">Manga</string>
+    <string name="pera">Pêra</string>
+
+	<string name="tip_abacaxi">Tente destacar uma folha da coroa do abacaxi. Se sair sem muita força o abacaxi está maduro.\n\r\n\rCheire o abacaxi. O aroma deve ser intenso.\n\r\n\rA parte de baixo deve estar ligeiramente amolecida.\n\r\n\rA cor da casca deve ser amarelada/ dourada.\n\r</string>
+    <string name="tip_banana">Evite as bananas com as pontas verdes.\n\r\n\rMuitas manchas escuras indicam que a banana passou do ponto. \n\r</string>
+	<string name="tip_laranja">Dê preferência para as laranjas firmes e pesadas.\n\r\n\rAlgumas manchas marrons indicam que a laranja está doce e suculenta.\n\r\n\rEvite as laranjas com a casca muito enrugada. A casca deve estar lisa e com cor brilhante.\n\r</string>
+	<string name="tip_mamao">A casca deve ser firme, sem manchas, fissuras ou bolores.\n\r\n\rDê preferência ao mamão de tom amarelo/alaranjado para consumo imediato.\n\r\n\rUm mamão com tons amarelos e verdes pode ser consumido no dia seguinte, mas um mamão todo verde corre o risco de não amadurecer e murchar.\n\r</string>
+	<string name="tip_manga">Escolha as mangas com consistência firme e macia ao toque.\n\r\n\rA casca deve estar lisa, sem rachaduras, fissuras ou melada.\n\r\n\rDeve apresentar um cheiro doce e agradável.\n\r</string>
+	<string name="tip_maracuja">Um bom maracujá tem casca enrugada e tom amarelado.\n\r\n\rDê preferência aos maracujás mais pesados em relação ao seu tamanho, pois têm mais polpa.\n\r</string>
+    <string name="tip_melancia">Uma boa melancia deve apresentar um som oco ao bater nela com a mão fechada.\n\r\n\rSe a melancia já estiver cortada, dê preferência àquelas com polpa de cor vermelha brilhante e consistência firme.\n\r\n\rUma melancia macia indica que está madura demais.\n\r\n\rEvite as melancias com marcas brancas, pois foram colhidas cedo demais.\n\r\n\rMarcas de mofo ou manchas marrons-escura ou pretas indicam que a fruta apodreceu.\n\r</string>
+    <string name="tip_pera">A coloração deve ser amarelada e, eventualmente, com algumas manchas marrons.\n\r\n\rA casca da pêra deve ceder um pouco a um toque leve.\n\r\n\rAo puxar o cabo, ele deve sair facilmente.\n\r</string>
+
+    <string name="banner_ad_unit_id_main" translatable="false">ca-app-pub-1861083682912986/3404596155</string>
+    <string name="banner_ad_unit_id_fruit_description" translatable="false">ca-app-pub-1861083682912986/5799659351</string>
+
+	<!--    GALAXY POCKET 4.0.4 ICE CREAM SANDWICH    -->
+    <string name="device_id" translatable="false">213F130812DDD560E2C22F55A06D0CDE</string>
+
+	<!--    CYANOGEN 2.3.7    -->
+	<string name="device_id_c" translatable="false">D501ADAEF4E39AD7F316F38D097759F9</string>
+
+	<!--    GALAXY S2 - ANDROID 4.1.2 - JELLY BEAN - GT-I9100 - API 16    -->
+	<string name="device_idn"   translatable="false">8B25B34093A6CDD3F31A243C83F522EE</string>
+
+    <string name="tracking_id" translatable="false">UA-71601436-2</string>
+	<string name="title_activity_display_message">Como Escolher Frutas</string>
+</resources>
