@@ -1,4 +1,4 @@
-package com.coesfr.comoescolherfrutas;
+package com.coesfr.comoescolherfrutase;
 
 import org.junit.Test;
 

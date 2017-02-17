@@ -1,4 +1,4 @@
-package com.coesfr.comoescolherfrutas;
+package com.coesfr.comoescolherfrutase;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

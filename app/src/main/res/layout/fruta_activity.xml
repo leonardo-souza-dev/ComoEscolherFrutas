@@ -11,7 +11,7 @@
     tools:ignore="MergeRootFrame">
 
     <android.support.v7.widget.Toolbar
-        android:id="@+id/fruit_description_toolbar"
+        android:id="@+id/fruta_toolbar"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:background="?attr/colorPrimary"
@@ -29,7 +29,7 @@
             android:layout_height="wrap_content">
 
             <ImageView
-                android:id="@+id/fruit_image"
+                android:id="@+id/fruta_imagem"
                 android:layout_width="match_parent"
                 android:layout_height="160dp"
                 android:scaleType="centerCrop"
@@ -37,7 +37,7 @@
                 android:contentDescription="@string/fruit" />
 
             <TextView
-                android:id="@+id/fruit_title"
+                android:id="@+id/fruta_nome"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/banana"
@@ -49,10 +49,10 @@
                 android:paddingTop="90dp" />
 
             <TextView
-                android:id="@+id/fruit_tip"
+                android:id="@+id/fruta_dica"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_below="@id/fruit_image"
+                android:layout_below="@id/fruta_imagem"
                 android:text="@string/tip_melancia"
                 android:textSize="20sp"
                 android:padding="24dp" />

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Como Escolher Frutas</string>
+    <string name="app_name">Como Escolher Frutas!</string>
     <string name="action_settings">Configurações</string>
     <string name="fruit">fruta</string>
     <string name="melancia">Melancia</string>
@@ -7,10 +7,13 @@
     <string name="banana">Banana</string>
     <string name="manga">Manga</string>
     <string name="pera">Pêra</string>
+    <string name="abacate">Abacate</string>
 
+    <string name="tip_abacate">Apalpe o abacate para saber se está maduro. Se estive levemente macio, está bom para consumo. Cuidado, não aperte com as pontas dos dedos para não fazê-lo ceder ou rachar.\n\r\n\rA casca não pode estar muito brilhante. Se estiver, o abacate ainda está verde. Dê preferência para aqueles de médio para verde escuro.\n\r\n\rUm bom abacate é mais pesado, portanto, compare-os segurando um em cada mão.\n\r</string>
 	<string name="tip_abacaxi">Tente destacar uma folha da coroa do abacaxi. Se sair sem muita força o abacaxi está maduro.\n\r\n\rCheire o abacaxi. O aroma deve ser intenso.\n\r\n\rA parte de baixo deve estar ligeiramente amolecida.\n\r\n\rA cor da casca deve ser amarelada/ dourada.\n\r</string>
     <string name="tip_banana">Evite as bananas com as pontas verdes.\n\r\n\rMuitas manchas escuras indicam que a banana passou do ponto. \n\r</string>
-	<string name="tip_laranja">Dê preferência para as laranjas firmes e pesadas.\n\r\n\rAlgumas manchas marrons indicam que a laranja está doce e suculenta.\n\r\n\rEvite as laranjas com a casca muito enrugada. A casca deve estar lisa e com cor brilhante.\n\r</string>
+    <string name="tip_goiaba">Evite as goiabas com marcas de picadas de inseto ou muitos pontinhos pretos, pode ser bicho de goiaba.\n\r\n\rA cor ideal da goiaba madura é verde-amarelado.\n\r\n\rPrefira escolher as goiabas de formato regular, sem rachaduras ou lombadas.\n\r\n\rUma boa goiaba não é nem muito dura, nem muito macia.</string>
+    <string name="tip_laranja">Dê preferência para as laranjas firmes e pesadas.\n\r\n\rAlgumas manchas marrons indicam que a laranja está doce e suculenta.\n\r\n\rEvite as laranjas com a casca muito enrugada. A casca deve estar lisa e com cor brilhante.\n\r</string>
 	<string name="tip_mamao">A casca deve ser firme, sem manchas, fissuras ou bolores.\n\r\n\rDê preferência ao mamão de tom amarelo/alaranjado para consumo imediato.\n\r\n\rUm mamão com tons amarelos e verdes pode ser consumido no dia seguinte, mas um mamão todo verde corre o risco de não amadurecer e murchar.\n\r</string>
 	<string name="tip_manga">Escolha as mangas com consistência firme e macia ao toque.\n\r\n\rA casca deve estar lisa, sem rachaduras, fissuras ou melada.\n\r\n\rDeve apresentar um cheiro doce e agradável.\n\r</string>
 	<string name="tip_maracuja">Um bom maracujá tem casca enrugada e tom amarelado.\n\r\n\rDê preferência aos maracujás mais pesados em relação ao seu tamanho, pois têm mais polpa.\n\r</string>
@@ -30,5 +33,4 @@
 	<string name="device_idn"   translatable="false">8B25B34093A6CDD3F31A243C83F522EE</string>
 
     <string name="tracking_id" translatable="false">UA-71601436-2</string>
-	<string name="title_activity_display_message">Como Escolher Frutas</string>
 </resources>

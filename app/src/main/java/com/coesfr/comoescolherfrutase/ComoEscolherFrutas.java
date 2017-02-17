@@ -1,15 +1,9 @@
-package com.coesfr.comoescolherfrutas;
+package com.coesfr.comoescolherfrutase;
 
 import android.app.Application;
 import com.google.android.gms.analytics.GoogleAnalytics;
 import com.google.android.gms.analytics.Tracker;
 
-/**
- * Custom implementation of android.app.Application.&nbsp;The android:name attribute in the
- * AndroidManifest.xml application element should be the name of your class (".ComoEscolherFrutas"). Android will
- * always create an instance of the application class and call onCreate before creating any other
- * Activity, Service or BroadcastReceiver.
- */
 public class ComoEscolherFrutas extends Application {
     /**
      * The Analytics singleton. The field is set in onCreate method override when the application

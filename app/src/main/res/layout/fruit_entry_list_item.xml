@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<!-- Layout for individual news entries in a list -->
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="120dp"
@@ -9,17 +7,15 @@
     android:gravity="center"
     android:id="@+id/t">
 
-    <!-- Icon shown next to the title/subtitle -->
     <ImageView
-        android:id="@+id/fruit_entry_image"
+        android:id="@+id/imagem_fruta"
         android:layout_width="match_parent"
         android:layout_height="120dp"
         android:scaleType="centerCrop"
         android:contentDescription="@string/fruit" />
 
-    <!-- Title of the news entry -->
     <TextView
-        android:id="@+id/fruit_entry_title"
+        android:id="@+id/nome_fruta"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="@android:color/white"
